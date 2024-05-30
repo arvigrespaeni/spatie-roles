@@ -10,7 +10,7 @@ use Illuminate\View\View;
 use Illuminate\Http\RedirectResponse;
 use DB;
 
-class RoleController extends Controller
+class RoleController extends Controller 
 {
     public function __construct()
     {
